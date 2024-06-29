@@ -20,7 +20,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'INACocoaFramework'
-  s.version          = '3.19.5'
+  s.version          = '3.19.6'
   s.summary          = 'A UI toolkit for beautiful and fast apps.'
   s.description      = <<-DESC
                         INACocoaFramework is a comprehensive UI toolkit for building fast and beautiful mobile applications with Flutter.
